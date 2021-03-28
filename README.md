@@ -1,5 +1,5 @@
 ## Steps to install and run on your local system
-1. $ git clone https://github.com/astudillosgroup/astudillosgroup-laravel7.git
+1. $ git clone https://github.com/pvicky9586/Cur-Oil.git
 2. $ cd directory
 3. $ composer install
 4. $ npm install
